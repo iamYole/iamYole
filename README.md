@@ -1,4 +1,4 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
 
 ![alt text](resources/image.jpeg)
 
