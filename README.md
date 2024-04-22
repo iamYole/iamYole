@@ -26,13 +26,15 @@ In this project, we will be taking a deeper look at Continuous Integration in pr
 
 <img src="resources/cicd_project.png" alt="Project Image" width="550">
 
+[Project Repository](https://github.com/iamYole/DIO-DevOps-Projects/blob/main/Project%2018%20-%20End%20to%20End%20Continous%20Intergration%20Project/README.md)
+
 ### Infrastructure as a Code (IaC) using Packer | Terraform | Terraform Cloud | Ansible in AWS
 
 In this project, we wil be introduce a concept called Infrastructure as a Code (IaC) to manage and provision cloud resources. Iac is all about using code rather than manual processes to create and provision cloud infrastructures. We will also dive into Packer to create immutable resources, Terraform Cloud and use Ansible to carry out further configurations after the resources have been created.
 
 <img src="resources/devop_proj_2.png" alt="Project Image" width="550">
 
-[Project Repository](https://github.com/iamYole/DIO-DevOps-Projects/blob/main/Project%2018%20-%20End%20to%20End%20Continous%20Intergration%20Project/README.md)
+[Project Repository](https://github.com/iamYole/DIO-DevOps-Projects/blob/main/Project%2016%20-%20Infrastructure%20as%20a%20Code%20using%20Terraform/README.md)
 
 <!-- ### Project Name 2
 
