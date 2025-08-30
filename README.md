@@ -2,37 +2,65 @@
 
 ![alt text](resources/image.jpeg)
 
-## About Me
+## 👨‍💻 About Me
 
-I am a certified DevOps engineer with a passion for building scalable and efficient systems. My expertise lies in Amazon Web Services (AWS), Docker, Kubernetes, Python, and Machine Learning. With a strong foundation in both software development and operations, I excel in creating automated pipelines, optimizing infrastructure, and deploying resilient applications.
+A Data Engineer with a strong focus on building scalable, reliable, and high-performance data pipelines/systems. My expertise spans **data modeling**, **ETL/ELT pipeline development**, and **big data processing** using tools such as **Apache Spark**, **Kafka**, **Airflow**, and **Databricks**.  
+Skilled in **Python**, **SQL**, and distributed computing frameworks, I excel at designing **end-to-end data workflows** that transform raw data into actionable insights.  
 
-## Skills
+With hands-on experience across **cloud platforms** like **AWS**, **GCP**, and **Azure**, I specialize in optimizing **data storage**, **query performance**, and **streaming architectures** to support both **real-time** and **batch processing** needs.  I am passionate about creating **robust data infrastructures** that empower **analytics**, **machine learning**, and **business intelligence** solutions.  
 
-- **DevOps**: Certified DevOps engineer experienced in implementing continuous integration, continuous deployment (CI/CD) pipelines, infrastructure as code (IaC), and automation.
-- **Amazon Web Service (AWS)**: Proficient in configuring, managing, and troubleshooting AWS environments for enterprise applications.
-- **Containerization**: Skilled in Docker containerization to package, distribute, and run applications in isolated environments.
-- **Kubernetes**: Experienced in deploying and managing containerized applications at scale using Kubernetes for orchestration.
-- **Python**: Proficient in Python programming for scripting, automation, data analysis, and machine learning.
-- **Machine Learning**: Knowledgeable in machine learning concepts, algorithms, and frameworks for predictive analytics and data-driven decision-making.
+By combining software engineering principles with modern data engineering practices, I deliver efficient, automated, and resilient systems that enable organizations to make data-driven decisions at scale.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Skills  
+
+### Programming & Scripting  
+- **Python**: Data transformation, automation, pipeline development  
+- **SQL**: Advanced querying, optimization, data modeling  
+
+### Data Processing & Orchestration  
+- **Apache Spark**: Distributed batch processing  
+- **Apache Kafka**: Real-time data streaming  
+- **Apache Airflow**: Workflow orchestration and scheduling  
+- **Databricks**: Unified analytics and machine learning platform  
+
+### Cloud Platforms & Infrastructure  
+- **AWS**: S3, Redshift, Glue, EMR, ...  
+- **GCP**: BigQuery, Dataflow, Pub/Sub  
+- **Azure**: Data Factory, Synapse Analytics  
+
+### Databases & Storage  
+- **Relational Databases**: PostgreSQL, MySQL  
+- **NoSQL Databases**: MongoDB  
+- **Data Warehousing**: Snowflake, Redshift, BigQuery  
+- **Data Lakes**: Amazon S3, Google Cloud Storage  
+
+### Containerization & Orchestration  
+- **Docker**: Containerization for consistent environments  
+- **Kubernetes**: Deploying and managing containerized applications at scale  
+
+### Data Visualization & Analytics  
+- **Looker**
+- **Power BI**  
+- **Tableau**
+
 
 ## DevOps Projects
 
-### End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP
+### End to End Machine Learning Fraud Detection Solution using Kafka | Airflow |Apache Spark | SCIKIT | MLFlow 
 
-In this project, we will be taking a deeper look at Continuous Integration in practice. Here, will use several CI softwares like Jenkins, Ansible, SonarQube, etc to drive this implementation.
+A machine learning pipeline for detecting fraudulent transactions using real-time data processing and model orchestration.
+
+This project demonstrates an end-to-end MLOps workflow, from data ingestion and preprocessing to model training, tuning, and deployment. It leverages both batch and streaming components to provide scalable and efficient fraud detection.
 
 <img src="resources/cicd_project.png" alt="Project Image" width="550">
 
-[Project Repository](https://github.com/iamYole/DIO-DevOps-Projects/blob/main/Project%2018%20-%20End%20to%20End%20Continous%20Intergration%20Project/README.md)
+[Project Repository](https://github.com/iamYole/End-to-End_ML_Fraud_Detection_Solution.git)
 
-### Infrastructure as a Code (IaC) using Packer | Terraform | Terraform Cloud | Ansible in AWS
+### Realtime Stock Anomaly Detection using Kafka | Quix Streams | Elastic Search | SKLearn
 
 This project will be in four (4) Parts. We will start with an introduction to Infrastructure as a Code (IaC) to manage and provision cloud resources. Iac is all about using code rather than manual processes to create and provision cloud infrastructures. We will also dive into Packer to create immutable resources, Terraform Cloud and use Ansible to carry out further configurations after the resources have been created.
 
-<img src="resources/devop_proj_2.png" alt="Project Image" width="550">
+<img src="resources/anomaly_detection.png" alt="Project Image" width="550">
 
 [Project Repository](https://github.com/iamYole/DIO-DevOps-Projects/blob/main/Project%2016%20-%20Infrastructure%20as%20a%20Code%20using%20Terraform/README.md)
 
@@ -43,8 +71,6 @@ Brief description of the project.
 ![Project 2 Image](https://project-2-image-url.com)
 
 [Project 2 Repository](https://github.com/yourusername/project-2) -->
-
-## Machine Learning and AI Projects
 
 ### Image Classification Using Pytorch
 
