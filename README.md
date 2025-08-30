@@ -44,7 +44,7 @@ By combining software engineering principles with modern data engineering practi
 - **Tableau**
 
 
-## DevOps Projects
+## Projects
 
 ### End to End Machine Learning Fraud Detection Solution using Kafka | Airflow |Apache Spark | SCIKIT | MLFlow 
 
