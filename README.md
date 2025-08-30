@@ -52,7 +52,7 @@ A machine learning pipeline for detecting fraudulent transactions using real-tim
 
 This project demonstrates an end-to-end MLOps workflow, from data ingestion and preprocessing to model training, tuning, and deployment. It leverages both batch and streaming components to provide scalable and efficient fraud detection.
 
-<img src="resources/cicd_project.png" alt="Project Image" width="550">
+<!-- <img src="resources/cicd_project.png" alt="Project Image" width="550"> -->
 
 [Project Repository](https://github.com/iamYole/End-to-End_ML_Fraud_Detection_Solution.git)
 
@@ -62,7 +62,7 @@ This project will be in four (4) Parts. We will start with an introduction to In
 
 <img src="resources/anomaly_detection.png" alt="Project Image" width="550">
 
-[Project Repository](https://github.com/iamYole/DIO-DevOps-Projects/blob/main/Project%2016%20-%20Infrastructure%20as%20a%20Code%20using%20Terraform/README.md)
+[Project Repository](https://github.com/iamYole/realtime-stock-anomaly-detection.git)
 
 <!-- ### Project Name 2
 
